@@ -4,7 +4,7 @@ Based on an example from https://github.com/jamwaffles/ssd1306
 
 Send random raw data to the display, emulating an old untuned TV.
 
-![video](staticnoise.gif)
+![](staticnoise.gif)
 
 
 Code for "blue pill" STM32F103C8T6 board.
